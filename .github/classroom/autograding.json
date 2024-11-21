@@ -225,7 +225,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 5",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     3.3396825396825403",
+      "output": "pi according to Java:  \npi, approximated:     3.3396825396825403",
       "comparison": "included",
       "timeout": 10,
       "points": 3
